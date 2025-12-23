@@ -15,8 +15,6 @@ Objectif : construire des analyses reproductibles et utiles à la décision (str
 - **Bureautique** : Excel (reporting, KPI), Word, PowerPoint
 
 ## Projets (liens)
-> Mets ici tes meilleurs repos (3–6).  
-> Pour l’instant, ton profil affiche 1 repo public ; ajoute tes projets et remplace les liens ci-dessous.
 
 - **Projet 1 — Forecast IDE–Énergie–CO₂ (CEDEAO, 1990–2024)**  
   Économétrie + ML pour la prévision conjointe, évaluation hors-échantillon, robustesse.  
